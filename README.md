@@ -1,2 +1,2 @@
-# LinkedList
-This is a LinkedList implement in Python
+# DataStructures
+Several Data structures implement in Python
