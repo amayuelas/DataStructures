@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: latin-1 -*-
-# LLenar con NIUs de los integrantes del grupo
-# NIU_1: 1392631
-# NIU_2: 1392661
+
 
 from LinkedList import *
 
