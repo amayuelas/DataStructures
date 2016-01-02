@@ -1,9 +1,4 @@
-#
-#   Fill in your personal details
-#
-#   NIU1: 1392631 Name: Josep Brugués i Pujolràs
-#   NIU2: 1392661 Name: Alfonso Amayuelas Fernández
-#
+
 
 class Graph:
     def __init__(self,adjacent=[]):
