@@ -1,7 +1,5 @@
 # -*- coding: latin-1 -*-
-# LLenar con NIUs de los integrantes del grupo
-# NIU_1: 1392661 - Alfonso Amayuelas Fernandez
-# NIU_2: 1392631 - Josep Brugues Pujolras
+
 
 from LinkedList import *
 
