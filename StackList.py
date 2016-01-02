@@ -1,6 +1,5 @@
 # -*- coding: latin-1 -*-
-# Alfonso Amayuelas  1392661
-# Josep  Brugues 1392631
+
 
 from LinkedList import *
 
