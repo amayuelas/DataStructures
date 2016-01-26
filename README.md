@@ -4,4 +4,5 @@ This inlcudes:
 - LinkedList
 - Queue
 - Stack
-- 
+- Binary Tree
+- Graph
